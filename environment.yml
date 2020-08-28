@@ -1,7 +1,0 @@
-name: project_environment
-dependencies: 
-  - pandas
-  - numpy
-  - datetime
-  - matplotlib
-  - seaborn
